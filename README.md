@@ -6,3 +6,4 @@ This project is intended to scrap an html page of climatic information (minimum 
 ## Libraries
 * BeautifulSoup
 * Requests
+* Python
